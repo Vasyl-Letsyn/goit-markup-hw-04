@@ -261,7 +261,7 @@ width: calc((100% - 72px) / 4);
 display: block;
 }
 .team-content {
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 
 .container-icon {
@@ -342,6 +342,7 @@ display: block;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 8px;
 }
 .portfolio {
 padding-block: 120px;
@@ -350,7 +351,7 @@ padding-block: 120px;
 border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 
 .portfolio-title {
